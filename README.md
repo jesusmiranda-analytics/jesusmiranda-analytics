@@ -268,10 +268,10 @@ Led a cross-functional certification initiative for a technology company seeking
 
 <div align="center">
 
-[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusmiranda-analytics&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Profile Details](https://raw.githubusercontent.com/jesusmiranda-analytics/jesusmiranda-analytics/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusmiranda-analytics&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusmiranda-analytics&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](https://raw.githubusercontent.com/jesusmiranda-analytics/jesusmiranda-analytics/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repositories by Language](https://raw.githubusercontent.com/jesusmiranda-analytics/jesusmiranda-analytics/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -281,8 +281,8 @@ Led a cross-functional certification initiative for a technology company seeking
 
 <div align="center">
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jesusmiranda-analytics&theme=tokyonight&utcOffset=-6)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jesusmiranda-analytics&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://raw.githubusercontent.com/jesusmiranda-analytics/jesusmiranda-analytics/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Committed Language](https://raw.githubusercontent.com/jesusmiranda-analytics/jesusmiranda-analytics/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
